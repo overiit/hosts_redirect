@@ -3,7 +3,7 @@ Do you hate always having to type github.com or getting recommended wrong domain
 
 **Disclaimer:** 
 
-I was bored, hate searchbar recommendations and prever not to type full domains if the recommendation from my browser is too specific. idk what I am doing honestly. but it works \o/
+I was bored, hate searchbar recommendations and prefer not to type full domains if the recommendation from my browser is too specific. idk what I am doing honestly. but it works \o/
 
 **Default Port**: 7813
 
