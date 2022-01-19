@@ -1,0 +1,15 @@
+{
+  "name": "hosts_redirect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/hosts_redirect.js",
+    "forever": "forever start src/hosts_redirect.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
