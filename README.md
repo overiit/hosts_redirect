@@ -39,7 +39,7 @@ cp domains.map.example domains.map
 Setup your own domains (that you setup in the hosts file aswell)
 
 ```
-test=https://test.com
+gh=https://github.com
 ```
 
 # Start
