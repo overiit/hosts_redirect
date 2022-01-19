@@ -1,5 +1,5 @@
 # Hosts Redirect Process
-Do you hate always having to type github.com or getting recommended from domains? Customize your own domain settings. Type `gh/USERNAME` to go to `github.com/USERNAME`
+Do you hate always having to type github.com or getting recommended wrong domains? Customize your own domain settings. Type `gh/USERNAME` to go to `github.com/USERNAME`
 
 **Default Port**: 7813
 
