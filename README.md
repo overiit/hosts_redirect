@@ -14,7 +14,7 @@ ping 13.0.0.78
 ```
 if it responds, choose a different local ip
 
-## Forward localhost:7813 to 13.0.0.78
+## Forward 13.0.0.78 to localhost:7813
 ```bash
 sudo ifconfig lo0 13.0.0.78 alias
 echo "rdr pass on lo0 inet proto tcp from any to 13.0.0.78 port 80 -> 127.0.0.1 port 7813" | sudo pfctl -ef -
