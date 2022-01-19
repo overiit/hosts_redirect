@@ -1,6 +1,9 @@
 # Hosts Redirect Process
 Do you hate always having to type github.com or getting recommended wrong domains? Customize your own domain settings. Type `gh/USERNAME` to go to `github.com/USERNAME`
 
+**Disclaimer:** 
+I was bored, and I hate searchbar recommendations and hat typing full domains if the recommendation is too specific. idk what I am doing honestly. but it works \o/
+
 **Default Port**: 7813
 
 # Setup (Mac OS)
